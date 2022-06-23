@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SynthCast"]
+	path = SynthCast
+	url = https://github.com/viniciusmsousa/synthcast
+	shallow = true
+	registered = true
